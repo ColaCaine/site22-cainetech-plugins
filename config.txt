@@ -1,0 +1,10 @@
+CONFIG 
+  <src> {
+      renderoptimize.cs
+}
+    
+
+RENDER-DISTANCE: [insert]
+
+
+  ///WIP txt Unity Rich Config
